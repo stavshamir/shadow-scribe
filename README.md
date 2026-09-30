@@ -7,7 +7,7 @@ date: the goal, the background, what changed, the decisions and the
 alternatives that lost, the insights worth keeping, and links to the plans and
 scripts the agent produced.
 
-Background and motivation: [LINK TO POST]
+Background and motivation: [Shadow Scribe](https://stavshamir.github.io/blog/shadow-scribe/)
 
 ## Install
 
